@@ -16,6 +16,7 @@ body {
 .resume-header {
     background-color: #203761;
     font-family:'Righteous', cursive;
+
 }
 
 .resume-main {
@@ -64,4 +65,9 @@ background-color: #C99A91;
 
 background-color: #E2D1CE;
 
+}
+
+.top {
+
+	color: #F9F9FF;
 }
