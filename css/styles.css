@@ -19,10 +19,12 @@ body {
 
 .resume-main {
 	background-color: #fffefc;
+	font-family: 'Quicksand', sans-serif;
 }
 
 .resume-aside {
 	background-color: #fff0e0;
+	font-family:'Quicksand', sans-serif;
 }
 
 /* Styles for lists in the document */
